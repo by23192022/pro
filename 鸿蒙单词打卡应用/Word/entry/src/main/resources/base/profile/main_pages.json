@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/PracticlePage",
+    "pages/SplashPage",
+    "pages/LoginPage",
+
+    "pages/CirclePage",
+
+    "pages/MinePage",
+    "pages/PostHistoryPage"
+  ]
+}
+
