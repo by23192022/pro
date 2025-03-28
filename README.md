@@ -6,22 +6,22 @@
 
 ### 项目展示
 
-|          |                                                              |                                                              |                                                              |
-| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **操作** | 开始                                                         | 结束                                                         | 登陆打卡                                                     |
-| **显示** | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml19792\wps8.jpg) | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml19792\wps9.jpg) | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml19792\wps10.jpg) |
-| **操作** | 打卡圈、刷新、点赞                                           | 我的                                                         | 打卡记录                                                     |
-| **显示** | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml19792\wps11.jpg) | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml19792\wps12.jpg) | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml19792\wps13.jpg) |
+|          |                                 |                                 |                                 |
+| -------- | ------------------------------- | ------------------------------- | ------------------------------- |
+| **操作** | 开始                            | 结束                            | 登陆打卡                        |
+| **显示** | ![img](README.assets/wps8.jpg)  | ![img](README.assets/wps9.jpg)  | ![img](README.assets/wps10.jpg) |
+| **操作** | 打卡圈、刷新、点赞              | 我的                            | 打卡记录                        |
+| **显示** | ![img](README.assets/wps11.jpg) | ![img](README.assets/wps12.jpg) | ![img](README.assets/wps13.jpg) |
 
 ### 项目说明
 
 ​		该App主要分为三个功能模块：答题模块、打卡圈和个人中心。答题模块包括答题、统计和打卡功能；打卡圈模块包括打卡列表和点赞功能；个人中心模块包括登录、退出登录和查看个人打卡记录功能。
 
-|          |                                                              |                                                              |                                                              |
-| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **模块** | 答题模块                                                     | 打卡圈                                                       | 个人中心                                                     |
-| **图示** | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml19792\wps32.jpg) | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml19792\wps33.jpg) | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml19792\wps34.jpg) |
-| **功能** | 答题、统计、打卡                                             | 打卡列表、点赞                                               | 登录、退出登录、个人打卡记录                                 |
+|          |                                 |                                 |                                 |
+| -------- | ------------------------------- | ------------------------------- | ------------------------------- |
+| **模块** | 答题模块                        | 打卡圈                          | 个人中心                        |
+| **图示** | ![img](README.assets/wps32.jpg) | ![img](README.assets/wps33.jpg) | ![img](README.assets/wps34.jpg) |
+| **功能** | 答题、统计、打卡                | 打卡列表、点赞                  | 登录、退出登录、个人打卡记录    |
 
 **页面结构**
 
@@ -44,31 +44,31 @@
 
 （1）首页分类显示
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml19792\wps1.jpg) 
+![img](README.assets/wps1-1743154838856.jpg) 
 
 （2）用户管理
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml19792\wps2.jpg) 
+![img](README.assets/wps2.jpg) 
 
 （3）海洋生物电子书页面管理
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml19792\wps3.jpg) 
+![img](README.assets/wps3.jpg) 
 
 （4）海洋生物文档管理
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml19792\wps4.jpg) 
+![img](README.assets/wps4.jpg) 
 
 （5）海洋生物分类管理
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml19792\wps5.jpg) 
+![img](README.assets/wps5.jpg) 
 
 （6）海洋生物文档阅读点赞功能
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml19792\wps6.jpg) 
+![img](README.assets/wps6.jpg) 
 
 （7）海洋生物知识库统计功能
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml19792\wps7.jpg) 
+![img](README.assets/wps7.jpg) 
 
 ### 项目说明
 
