@@ -44,7 +44,7 @@
 
 （1）首页分类显示
 
-![img](README.assets/wps1-1743154838856.jpg) 
+![img](README.assets/wps1.jpg) 
 
 （2）用户管理
 
